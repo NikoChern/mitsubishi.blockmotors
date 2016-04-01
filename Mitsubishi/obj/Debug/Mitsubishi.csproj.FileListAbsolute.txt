@@ -1,0 +1,6 @@
+C:\Data\Niko\Projects\Makeup\Mitsubishi\Mitsubishi\bin\Mitsubishi.dll.config
+C:\Data\Niko\Projects\Makeup\Mitsubishi\Mitsubishi\bin\Mitsubishi.dll
+C:\Data\Niko\Projects\Makeup\Mitsubishi\Mitsubishi\bin\Mitsubishi.pdb
+C:\Data\Niko\Projects\Makeup\Mitsubishi\Mitsubishi\obj\Debug\Mitsubishi.csprojResolveAssemblyReference.cache
+C:\Data\Niko\Projects\Makeup\Mitsubishi\Mitsubishi\obj\Debug\Mitsubishi.dll
+C:\Data\Niko\Projects\Makeup\Mitsubishi\Mitsubishi\obj\Debug\Mitsubishi.pdb
